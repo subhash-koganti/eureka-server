@@ -6,7 +6,7 @@
 	<groupId>com.subhash.cloudnatives.eureka.server</groupId>
 	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Spring Boot Blank Project (from https://github.com/making/spring-boot-blank)</name>
 
